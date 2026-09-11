@@ -116,3 +116,5 @@ The boss continuously uses these attacks in random order until it is defeated.
 ## 🎯 Objective
 
 Survive the increasing difficulty, defeat incoming enemies, reach 3,000 points, and defeat the boss while avoiding its random attack patterns.
+
+Play Video - https://www.youtube.com/watch?v=Gb8rgkAvyeI
