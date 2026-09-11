@@ -1,6 +1,6 @@
 # 2D Flash Game: Escape From Earth
 
-A 2D action game developed with Unity and C#.
+A 2D Flash game developed with Unity and C#.
 
 The player must defeat incoming enemies, avoid various attacks, collect useful items, and survive until the boss battle.
 
