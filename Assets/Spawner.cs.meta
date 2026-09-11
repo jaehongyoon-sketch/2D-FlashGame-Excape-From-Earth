@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ba468ed6cc12464d9feef3293f7623d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {fileID: 2904043557758803582, guid: 332792980dcc66d4aae10a05a491d610, type: 3}
+  - player: {instanceID: 0}
+  - laserPrefab: {fileID: 3713660181457772000, guid: 56aa841c30d611644ae509ac38b98a7f, type: 3}
+  - WarningLinePrefab: {fileID: 4702482172266166483, guid: 55711fbfb48d16044a8d1e8817e76bbd, type: 3}
+  - B2Prefab: {fileID: 5592282346594327360, guid: 275b5fd28fd44e84aa0439632d98d25b, type: 3}
+  - slowItemPrefab: {fileID: 4750739915078711108, guid: 958370765d1f96f418a29c3dc47b0869, type: 3}
+  - shieldItemPrefab: {fileID: 4483140116294847989, guid: 7f90ecd92b0e7b245a766838db063ab0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
